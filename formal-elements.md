@@ -1,6 +1,6 @@
 <div dir='rtl' lang='he'>
 
-# Barman
+# Bartender
 
 **שרת את לקוחותיך בצורה הטובה ביותר**
 
